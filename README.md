@@ -1,7 +1,7 @@
 # Improved_RINN
 Implementation of paper RUNGE-KUTTA Schemes for Joint Identificationand Integration of Stiff Systems.
 
-Associated paper : 
+Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
 
 License: CECILL-C license Copyright IMT Atlantique/OceaniX,
 
