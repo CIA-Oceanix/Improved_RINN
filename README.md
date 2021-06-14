@@ -1,6 +1,38 @@
 # Improved_RINN -- Implementation of paper RUNGE-KUTTA Schemes for Joint Identificationand Integration of Stiff Systems.
 
-In  this  work,  we  focus  on  the  joint  identification and  integration  of  dynamical  systems  using  a  residual  neuralnetwork.  We  propose  a  framework  that  learns  simultaneouslythe  RUNGE-KUTTA  coefficients  of  the  integration  scheme  andthe parameters of the dynamical operator. We test the proposedarchitecture  on  several  examples  including  stiff  systems.
+In  this  work,  we  focus  on  the  joint  identification and  integration  of  dynamical  systems  using  a  residual  neuralnetwork.  We  propose  a  framework  that  learns  simultaneouslythe  RUNGE-KUTTA  coefficients  of  the  integration  scheme  and the parameters of the dynamical operator. We test the proposed         architecture  on  several  examples  including  stiff  systems.
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="3">The table header</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="https://github.com/CIA-Oceanix/Improved_RINN/blob/936d5f76ed827d30456b205f553019b048334e43/graphs/forecast3d.jpg"
+      width="300"
+     height="300"
+     title="LORENZ-63 Prediction using (explicit) IRNN and poorly sampled data"></td>
+            <td><img src="https://github.com/CIA-Oceanix/Improved_RINN/blob/936d5f76ed827d30456b205f553019b048334e43/graphs/L96.jpg"
+      width="300"
+     height="300"
+     title="LORENZ-96 Prediction using (explicit) IRNN"></td>
+              <td><img src="https://github.com/CIA-Oceanix/Improved_RINN/blob/936d5f76ed827d30456b205f553019b048334e43/graphs/stiffSystemInt_pred.jpg"
+      width="300"
+     height="300"
+     title="Stiff Linear System Prediction using (implicit) IRNN"></td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+     
+
+
+
 
 Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
 
