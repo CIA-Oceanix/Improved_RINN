@@ -5,7 +5,7 @@ Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
 
 License: CECILL-C license Copyright IMT Atlantique/OceaniX,
 
-contributor(s) : T. Aussaguès, S. Ouala
+contributor(s) : T. Aussaguès, S. Ouala 14/06/21
 
 Contact person: thomas.aussagues@imt-atlantique.fr
 
