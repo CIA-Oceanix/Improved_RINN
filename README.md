@@ -1,11 +1,12 @@
-# Improved_RINN
-Implementation of paper RUNGE-KUTTA Schemes for Joint Identificationand Integration of Stiff Systems.
+# Improved_RINN -- Implementation of paper RUNGE-KUTTA Schemes for Joint Identificationand Integration of Stiff Systems.
+
+In  this  work,  we  focus  on  the  joint  identification and  integration  of  dynamical  systems  using  a  residual  neuralnetwork.  We  propose  a  framework  that  learns  simultaneouslythe  RUNGE-KUTTA  coefficients  of  the  integration  scheme  andthe parameters of the dynamical operator. We test the proposedarchitecture  on  several  examples  including  stiff  systems.
 
 Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
 
 License: CECILL-C license Copyright IMT Atlantique/OceaniX,
 
-contributor(s) : T. Aussaguès, S. Ouala 14/06/21
+Contributor(s) : T. Aussaguès, S. Ouala 14/06/21
 
 Contact person: thomas.aussagues@imt-atlantique.fr
 
