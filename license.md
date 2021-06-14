@@ -1,6 +1,6 @@
-Copyright IMT Atlantique/OceaniX, contributor(s) : S. Ouala, A. Pascual, R. Fablet, 23/03/2020
+Copyright IMT Atlantique/OceaniX, contributor(s) : T. Aussaguès, S. Ouala 14/06/2021
 
-Contact person: said.ouala@imt-atlantique.fr
+Contact person: thomas.aussagues@imt-atlantique.fr
 
 CeCILL-C FREE SOFTWARE LICENSE AGREEMENT
 
