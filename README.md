@@ -2,6 +2,7 @@
 
 In  this  work,  we  focus  on  the  joint  identification and  integration  of  dynamical  systems  using  a  residual  neuralnetwork.  We  propose  a  framework  that  learns  simultaneouslythe  RUNGE-KUTTA  coefficients  of  the  integration  scheme  and the parameters of the dynamical operator. We test the proposed         architecture  on  several  examples  including  stiff  systems.
 
+### You may need to change the paths on the notebooks !
 
 Associated paper : https://cloud.imt-atlantique.fr/index.php/s/tfdX9b9kJbdqGjJ
 
